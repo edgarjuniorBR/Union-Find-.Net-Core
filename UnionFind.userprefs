@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A732D4E5-5D34-4A66-9411-C686F02EED62}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnionFind PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/QuickFindUF.cs">
+    <Files>
+      <File FileName="src/MainClass.cs" Line="28" Column="6" />
+      <File FileName="src/IUF.cs" Line="5" Column="3" />
+      <File FileName="src/QuickFindUF.cs" Line="6" Column="10" />
+      <File FileName="src/QuickUnion.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
